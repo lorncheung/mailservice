@@ -1,0 +1,6 @@
+== Mail Service for TaskRabbit application 
+
+This project allows the transmission of user and task data to 3rd party email marketing
+solutions like Responsys, ExactTarget, Madmimi etc
+
+
